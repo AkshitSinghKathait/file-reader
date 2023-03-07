@@ -6,10 +6,6 @@ read me
 
 CREATED BY 
 AKSHIT SINGH KATHAIT
-2019B5PS0746P
-
-
-qs 4 attempted .
 
 NOTE
 1) use gcc compilier and ubuntu
